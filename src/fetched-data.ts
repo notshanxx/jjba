@@ -1,4 +1,4 @@
-const character = [
+export const character = [
   {
     id: '1',
     name: 'Jonathan Joestar',
@@ -2363,7 +2363,7 @@ const character = [
   }
 ]
 
-const stand = [
+export const stand = [
   {
     id: '1',
     name: 'The World',

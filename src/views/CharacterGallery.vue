@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import Gallery from '../components/PictureGallery.vue'
+import { character } from '../fetched-data'
 let chars = character
 </script>
 
